@@ -1,0 +1,13 @@
+Canteen
+Parking
+Ground floor
+First floor
+Underground
+Stadium
+Gymnasium
+Bottle garden
+Entrance
+Girl's Restroom
+Boy's Restroom
+Library top
+Auditorium
